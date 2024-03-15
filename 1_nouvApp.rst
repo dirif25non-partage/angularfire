@@ -1,8 +1,10 @@
-  Création d'une nouvelle application
+Création d'une nouvelle application
 ****************************************
 Pour créer une nouvelle application Angular une source très pédagogique est ici :
    .. code-block:: 
   https://developers.google.com/codelabs/building-a-web-app-with-angular-and-firebase
+
+Elle nécessite tout de même des compléments.
 
 
    .. code-block:: 
