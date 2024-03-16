@@ -8,14 +8,18 @@ https://developers.google.com/codelabs/building-a-web-app-with-angular-and-fireb
 Elle nécessite tout de même des compléments.
 
 
-   .. code-block:: 
+.. code-block:: 
+
 ng new app-nom
 cd app-nom
 ng add @angular/material
 ng add @angular/fire
 
-Pour éviter une eerreur de compilation, quand on fait ng serve il faut éditer le fichier :code:`src/app/app.config.ts`
-retirer :  "locationId":"europe-west"
+Pour éviter une erreur de compilation quand on fait ng serve, il faut éditer le fichier :code:`src/app/app.config.ts`
+et retirer :  :code:`"locationId":"europe-west"`
+
+
+
 
 
 
