@@ -5,6 +5,7 @@ Pour créer une nouvelle application Angular, une source très pédagogique est 
    .. code-block:: 
 
    text
+
    https://developers.google.com/codelabs/building-a-web-app-with-angular-and-firebase
 
 Les indications apportées nécessitent tout de même des compléments que l'on donne ci-dessous.
