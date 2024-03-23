@@ -2,7 +2,7 @@ Création d'une nouvelle application
 ****************************************
 Pour créer une nouvelle application Angular, une source très pédagogique est fournie ici :
 
-   .. code-block:: 
+.. code-block:: 
 
    text
 
