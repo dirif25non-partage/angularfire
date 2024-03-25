@@ -11,8 +11,9 @@ Les indications apportées nécessitent tout de même des compléments que l'on 
 
 .. code-block:: 
 
-   ng new app-nom
-   cd app-nom
+   ng new appnom
+         (lettres minuscules)
+   cd appnom
    ng add @angular/material
    ng add @angular/fire
 
