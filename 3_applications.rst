@@ -9,10 +9,8 @@ Applications réalisées
    32_tunnels
    
 
+Il s'agit de noter les expériences pour qu'elles servent d'exemples.
 
-
-
-Il s'agit de noter les expériences pour qu'elles servent d'exemple. 
 Je décrirai les outils utilisés et l'intérêt que les expériences comportent pour de futures réalisations.
 
 
