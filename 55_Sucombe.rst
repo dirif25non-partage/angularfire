@@ -18,10 +18,14 @@ Les thèmes traités seront les suivants :
 
 Montants engagés et constatés
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Montants engagés et constatés par marché et par unité, montants cumulés par mois.
+Les montants engagés et constatés seront décomposés par marché, par tunnel et par unité.
+On présentera les montants cumulés par mois quand cette dynamique présente de l'intérêt.
 
-Focus sur le marché Batiment
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Pour le renouvellement de ce marché à réalise en 2024, cette analyse permettra d'éclairer la rédaction du DCE.
+Focus sur les prochains marchés à renouveler
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Les prochains renouvellements en 2024 sont :
+Batiment, Signalisation Dynamique,
+
+Pour le renouvellement de ces marchés, ces analyses permettront d'éclairer la rédaction des DCE.
 
 
