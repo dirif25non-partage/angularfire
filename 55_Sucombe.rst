@@ -1,5 +1,5 @@
-Exploitation des données comptable Sucombe
-*******************************************
+Exploitation des données comptables de Sucombe
+**************************************************
 3/2024
 
 Objectifs
@@ -26,6 +26,32 @@ Focus sur les prochains marchés à renouveler
 Les prochains renouvellements en 2024 sont :
 Batiment, Signalisation Dynamique,
 
-Pour le renouvellement de ces marchés, ces analyses permettront d'éclairer la rédaction des DCE.
+Pour le renouvellement de ces marchés, les analyses permettront d'éclairer la rédaction des DCE.
+
+Analyse de l'année en cours
+"""""""""""""""""""""""""""""
+Les thèmes traités seront les suivants :
+
+Engagement des actions préventives
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+Examen de la manière d'utiliser Sucombe
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
