@@ -21,6 +21,6 @@ html_show_copyright = False
 html_show_sphinx = False
 html_theme_options = {
     "sidebar_hide_name": True,
-    "light_logo": "logo.jpg",
-    "dark_logo":  "logo.jpg",
+    "light_logo": "logo.png",
+    "dark_logo":  "logo.png",
 }
