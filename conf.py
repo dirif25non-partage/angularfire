@@ -1,4 +1,4 @@
-project = 'doc Sucombe'
+project = 'Mon Angular Fire'
 copyright = '2043, on'
 author = 'on'
 release = ''
