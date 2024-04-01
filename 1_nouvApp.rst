@@ -1,6 +1,6 @@
 Création d'une nouvelle application
 ****************************************
-Pour créer une nouvelle application Angular, une source très pédagogique est fournie ici :
+Pour créer une nouvelle application combinant Angular & Firebase, une source très pédagogique est fournie ici :
 
 .. code-block:: 
 
