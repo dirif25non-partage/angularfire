@@ -10,6 +10,10 @@ Les indications apportées nécessitent tout de même des compléments que l'on 
 
 
 .. code-block:: 
+    
+   npm install -g @angular/cli@latest
+firebase experiments:enable webframeworks
+
 
    ng new appnom
          (lettres minuscules)
