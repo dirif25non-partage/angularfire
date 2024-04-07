@@ -6,6 +6,8 @@ Projets et idées
    :maxdepth: 3
 
    51_repertoire  
+   52-issues
+   525_NIP
    53_traficDIRIF
    55_Sucombe
    57_tunnels
