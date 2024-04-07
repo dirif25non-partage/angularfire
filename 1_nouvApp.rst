@@ -1,19 +1,26 @@
 Création d'une nouvelle application
 ****************************************
-Pour créer une nouvelle application combinant Angular & Firebase, une source très pédagogique est fournie ici :
+Pour créer une nouvelle application combinant Angular & Firebase, une source pédagogique est fournie ici :
 
 .. code-block:: 
 
    https://developers.google.com/codelabs/building-a-web-app-with-angular-and-firebase
 
-Les indications apportées nécessitent tout de même des compléments que l'on donne ci-dessous.
+J'ai ensuite trouvé un exemple à la fois récent, d'un niveau de complexité moyen, et très clairement construit. Il es t ici :
 
+   https://github.com/AlexZhidkov/AustralianWineMarket
+
+.. code-block:: 
+
+   https://github.com/AlexZhidkov/AustralianWineMarket
+
+J'ai réussi à avancer assez vite en recopiant des morceaux de cette application pour l'adapter à ce que j'essaie de faire.
+
+Les étapes du parcours de création d'un nouvbelle application sont donnés ci-dessous.
 
 .. code-block:: 
     
    npm install -g @angular/cli@latest
-firebase experiments:enable webframeworks
-
 
    ng new appnom
          (lettres minuscules)
@@ -24,8 +31,8 @@ firebase experiments:enable webframeworks
 Pour éviter une erreur de compilation quand on fait ng serve, il faut éditer le fichier :code:`src/app/app.config.ts`
 et retirer :  :code:`"locationId":"europe-west"`
 
-
-
+J'ai essayer de travailler depuis le Cloud Shell (avec firebase experiments:enable webframeworks)
+Echec
 
 
 
