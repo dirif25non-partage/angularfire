@@ -1,5 +1,11 @@
 Création d'une nouvelle application
 ****************************************
+.. toctree::
+   :hidden:
+   :maxdepth: 3
+
+   12_cloud
+
 Pour créer une nouvelle application combinant Angular & Firebase, une source pédagogique est fournie ici :
 
 .. code-block:: 
