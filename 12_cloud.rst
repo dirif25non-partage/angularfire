@@ -7,6 +7,7 @@ Sur mon PC pro, j'ai plusieurs restrictions:
 Je me suis donc tourné vers le service Cloud Shell (Google).
 Comme la persistance des fichiers n'est pas garantie, j'essaie de synchroniser avec GitHub mais j'oublie vite les procédures pour le faire ...
 
+Premier exemple : `https://github.com/dirif25non-partage/travaux`
 
 
 
