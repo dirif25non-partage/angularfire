@@ -13,6 +13,10 @@ Après de nombreux essais infructueux en février et mars 2024 ...
 Il s'agit de la première expérience réussie d'intégrer Angular, Matérial table et Firestore dans une application.
 Cela m'a permis de maitriser des notions pratiques de base sur la syntaxe d'Angular.
 
+Suites envisagées
+=================
+Ce travail pourrait déboucher sur un site de présentation plus général des tunnels de la DiRIF qui remplacerait le rapport d'activité.
+
 
 
 
