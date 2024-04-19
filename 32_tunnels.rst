@@ -9,10 +9,18 @@ Il y a un lien avec le projet de faire un référentiel sur les tunnels.
 
 Choix fonctionnels
 ====================
-Pour la liste des DS, je suis parti du tableau de suivi de PBD/CL mais je constate des inconsistances, certains DS passés ensembles sont fusionnés alors que d'autres sont dissociés.
-La logique serait de dissocier les DS passés ensemble de même que l'on dépose bien 2 dossiers différents.
+DS
+"""
+Pour la liste des DS, je suis parti du tableau de suivi de PBD/CL mais je constate des inconsistances, certains DS instruits ensemble sont fusionnés alors que d'autres sont dissociés.
+La logique serait de dissocier les DS instruits ensemble, de même que l'on dépose 2 dossiers différents.
 
-Pour les tunnels élémentaires j'ai repris la décomposition précédente mais je ne considère pas que cela soit satisfaisant. La principale difficulté concerne l'échangeur A14/A86. 
+Les premiers champs retenus sont triCode, PCTT, Nom, Date (à mettre en ordre alphabetique).
+
+Il faudrait ajouter : (Préfecture, Date de l'autorisation, Date du dépot ? ). Pour l'instant, on ne propose pas de gérer les réserves et recommandations).
+
+Tunnels
+""""""""""
+Pour les tunnels élémentaires j'ai repris la décomposition précédente, mais je ne considère pas que cela soit satisfaisant. La principale difficulté concerne l'échangeur A14/A86. 
 
 A la réflexion, je pense que l'enjeu de clarifier la composition de cet échangeur pousse à considérer les bretelles commes des tunnels élémentaires.
 
