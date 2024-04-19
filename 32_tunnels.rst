@@ -35,8 +35,7 @@ Il est possible d'utiliser l'API de Firestore depuis le notebook pour alimenter 
 Pour le développement de l'application, j'ai travaillé sur CloudShell :code:`exploit_diridf@cloudshell:~/tunnels (tunnels-dirif)$`.
 Les fichiers sont sur GitHub: `<https://github.com/dirif25non-partage/tunnels>`_.
 
-Il faut d'abord créer un repository vide. Ensuite 
-
+Il faut d'abord créer un repository vide (https://github.com/dirif25non-partage/tunnels). Ensuite :
 .. code-block:: 
 
     git remote add origin https://github.com/dirif25non-partage/tunnels 
