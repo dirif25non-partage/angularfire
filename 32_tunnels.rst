@@ -24,6 +24,11 @@ Il est possible d'utiliser l'API de Firestore depuis le notebook pour almenter l
 Pour le développement de l'application, j'ai travaillé sur CloudShell :code:`exploit_diridf@cloudshell:~/tunnels (tunnels-dirif)$`.
 Les fichiers sont sur GitHub: `<https://github.com/dirif25non-partage/tunnels>`_.
 
+Il faut d'abord créer un repository vide. Ensuite :code:`git remote add origin https://github.com/dirif25non-partage/tunnels 
+git config --global user.email "exploit.diridf@gmail.com"
+git config --global user.name "ON"  git add .  //  git commit -m debut
+`.
+
 
 
 Suites envisagées
