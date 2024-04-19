@@ -37,6 +37,19 @@ pour retirer le texte :  :code:`"locationId":"europe-west"`
 
 Souvent, il sera plus efficace de partir d'une application existante et de l'adapter.
 
+Pour visualiser l'application, la commande est : :code:`ng serve`.
+
+Pour déployer sur Firebase, il faut avoir 
+* sélectionné Firebase hosting sur la console pour le projet,
+* fait  :code:`firebase login` ( avec éventuellement :code:` –no-localhost`)
+* fait  :code:`firebase init` 
+
+Firebase hosting va chercher les fichiers à déployer dans le répertoire public mentionné dans firebase.json. 
+Cependant, les fichiers produit par le build sont placés dans le répertoire browser qui est lui même dans le répertoire outpout renseigné dans angular.json ...
+
+Il faut mettre en cohérence ces paramétrages, à la main.
+
+
 Comme, il n'est pas possible d'installer la CLI d'Angular sur mon PC Pro et qu'en mars 2024 il n'était pas possible d'accéder aux serveurs de Firebase Hosting, sur le réseau du ministère, j'ai essayé de travailler depuis le Cloud Shell. 
 Dans un premier temps j'au cru que cela ne fonctionnerait pas, mais :doc:`cette solution est finalement interessante<12_cloud>`.
 
