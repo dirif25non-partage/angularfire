@@ -19,7 +19,7 @@ On utilise le compte exploit.diridf et le projet tunnels (:code:`id:tunnels-diri
 
 Les données d'entrées (table des DS et des tunnels) sont traitées par un notebook : `Referentiel tunnels.ipynb <https://colab.research.google.com/drive/1FDtybG180Ik4Y09r8htxegNa_KVWhzmG?authuser=4#scrollTo=t3g3QZrEk0Wd>`_. 
 
-Il est possible d'utiliser l'API de Firestore depuis le notebook pour almenter la base de données.
+Il est possible d'utiliser l'API de Firestore depuis le notebook pour alimenter la base de données.
 
 Pour le développement de l'application, j'ai travaillé sur CloudShell :code:`exploit_diridf@cloudshell:~/tunnels (tunnels-dirif)$`.
 Les fichiers sont sur GitHub: `<https://github.com/dirif25non-partage/tunnels>`_.
@@ -27,6 +27,8 @@ Les fichiers sont sur GitHub: `<https://github.com/dirif25non-partage/tunnels>`_
 Il faut d'abord créer un repository vide. Ensuite :code:`git remote add origin https://github.com/dirif25non-partage/tunnels 
 git config --global user.email "exploit.diridf@gmail.com"
 git config --global user.name "ON"  git add .  //  git commit -m debut
+git push --set-upstream https://dirif25non-partage:ghp_TOKEN_lCP6oNm4TEOwB@github.com/dirif25non-partage/tunnels.git master
+
 `.
 
 
