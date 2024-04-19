@@ -17,7 +17,7 @@ Organisation
 ==============
 On utilise le compte exploit.diridf et le projet tunnels (:code:`id:tunnels-dirif`).
 
-Les données d'entrées (table des DS et des tunnels) sont traitées par un notebook : :code:`Referentiel tunnels.ipynb<https://colab.research.google.com/drive/1FDtybG180Ik4Y09r8htxegNa_KVWhzmG?authuser=4#scrollTo=t3g3QZrEk0Wd>`_. 
+Les données d'entrées (table des DS et des tunnels) sont traitées par un notebook : `Referentiel tunnels.ipynb <https://colab.research.google.com/drive/1FDtybG180Ik4Y09r8htxegNa_KVWhzmG?authuser=4#scrollTo=t3g3QZrEk0Wd>`_. 
 
 Il est possible d'utiliser l'API de Firestore depuis le notebook pour almenter la base de données.
 
