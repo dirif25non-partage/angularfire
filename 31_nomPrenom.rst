@@ -1,12 +1,12 @@
-feu2401-nom-prenom (1/24)
-*************************
+Nom-prenom (1/24)
+*******************
 Objectifs
 =========
 Il s'agit de ma première utilisation de Firestore dans une application.
 A ce stade je n'utilisais pas Angular, ce qui simplfie et permet de comprendre les bases de Firebase.
 
-Cet exemple n'a pas beaucoup d'utilité comme exemple car l'utilisation de Javascript sans un Framework 
-comme Angular n'a pas de pertinence.
+Cet exemple n'a pas beaucoup d'utilité comme exemple car l'utilisation de Javascript 
+sans un Framework comme Angular n'a pas de pertinence.
 
 Déroulement
 ==============
