@@ -31,10 +31,3 @@ Contenu du document
 * :doc:`Création d'une nouvelle application<1_nouvApp>`
 * :doc:`Exemple de réalisations<3_applications>`
 * :doc:`Projets et idées<5_projets>`
-
-Contenu du document
-"""""""""""""""""""""""""
-   * :doc:`Création d'une nouvelle application<1_nouvApp>`
-   * :doc:`Exemple de réalisations<3_applications>`
-   * :doc:`Projets et idées<5_projets>`
-
