@@ -24,13 +24,17 @@ En apprenant les bases de Firebase, je suis tombé sur des exemples qui utilisai
 
 Firebase a connu une évolution en 2023, avec les *standalone components*. Beaucoup d'exemples disponibles sont antérieurs à cette évolution et pour les utiliser dans le contexte récent, il est nécessaire de comprendre précisemment les détails de l'évolution et les éléments qu'il faut modifier pour adapter un exemple.
 
-Par ailleurs, quand on utilise Firebase avec Angular, il est recommandé d'avoir recours à des modules spécifiques. Je n'ai pas encore bien compris pourquoi. Il faut donc aussi savoir adapter les exemples construits sans Angular au contexte d'Angular.
+Par ailleurs, quand on utilise Firebase avec Angular, il est recommandé d'avoir recours à des modules spécifiques à cette association. Je n'ai pas encore bien compris pourquoi. Il faut donc aussi savoir adapter les exemples construits sans Angular au contexte d'Angular.
 
 Contenu du document
-""""""""""""""""""""""""""""""""""""""""""""""""
-:doc:`Création d'une nouvelle application<1_nouvApp>`
-:doc:`Exemple de réalisations<3_applications>`
-:doc:`Projets et idées<5_projets>`
+"""""""""""""""""""""""""""
+* :doc:`Création d'une nouvelle application<1_nouvApp>`
+* :doc:`Exemple de réalisations<3_applications>`
+* :doc:`Projets et idées<5_projets>`
 
-
+Contenu du document
+"""""""""""""""""""""""""
+   * :doc:`Création d'une nouvelle application<1_nouvApp>`
+   * :doc:`Exemple de réalisations<3_applications>`
+   * :doc:`Projets et idées<5_projets>`
 
