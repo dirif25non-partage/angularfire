@@ -58,8 +58,9 @@ Suites envisagées
 =================
 Il n'y a pas de solution simple pour la mise à jour des données que pourrait faire un tiers.
 Deux pistes peuvent être envisagées :
-    * Lire les données dans une Google Sheet
-    * Faire une application Angular/fire de mise à jour
+
+* Lire les données dans une Google Sheet
+* Faire une application Angular/fire de mise à jour
 
 Ce travail pourrait déboucher sur un site de présentation plus général des tunnels de la DiRIF qui remplacerait le rapport d'activité.
 
