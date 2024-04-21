@@ -33,6 +33,11 @@ Après de nombreux essais infructueux en février et mars 2024 ...
 Il s'agit de la première expérience réussie d'intégrer Angular, Matérial table et Firestore dans une application.
 Cela m'a permis de maitriser des notions pratiques de base sur la syntaxe d'Angular.
 
+Au départ, je me suis concentré sur l'objectif de gérer la base de données sur Firebase. Cela reste un bon exemple que l'on peut trouver un projet qui fonctionne sur feu2312 ici : :code:`C:\Users\spera\Videos\on\gcp\angularfire\tuns`.
+
+Ensuite, je me suis plus concentré sur le sujet du référentiel et sur la mise en forme pour le Smartphone.
+
+
 Organisation
 ==============
 On utilise le compte exploit.diridf et le projet tunnels (:code:`id:tunnels-dirif`).
@@ -56,10 +61,10 @@ Il faut d'abord créer un repository vide (https://github.com/dirif25non-partage
 
 Suites envisagées
 =================
-Il n'y a pas de solution simple pour la mise à jour des données que pourrait faire un tiers.
+Il n'y a pas de solution simple pour la mise à jour des données que pourrait faire un agent d'UCTIR.
 Deux pistes peuvent être envisagées :
 
-* Lire les données dans une Google Sheet
+* Lire les données mises à jour dans une Google Sheet
 * Faire une application Angular/fire de mise à jour
 
 Ce travail pourrait déboucher sur un site de présentation plus général des tunnels de la DiRIF qui remplacerait le rapport d'activité.
