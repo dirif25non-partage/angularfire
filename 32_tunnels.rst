@@ -3,7 +3,8 @@ Caractéristiques des tunnels (3/24)
 Objectifs
 ==========
 Il s'agit de mettre à disposition sur smartphone des données (longueur, TMJA, code,nom ...) sur les tunnels et les DS.
-Les utilisateurs n'ont que des droits de lecture, ce qui évite de passer par l'authentification.
+Les utilisateurs n'ont que des droits de lecture, ce qui évite de passer par l'authentification
+et la gestion des comptes utilisateurs.
 
 Il y a un lien avec le projet de faire un référentiel sur les tunnels.
 
@@ -38,7 +39,7 @@ On utilise le compte exploit.diridf et le projet tunnels (:code:`id:tunnels-diri
 
 Les données d'entrées (table des DS et des tunnels) sont traitées par un notebook : `Referentiel tunnels.ipynb <https://colab.research.google.com/drive/1FDtybG180Ik4Y09r8htxegNa_KVWhzmG?authuser=4#scrollTo=t3g3QZrEk0Wd>`_. 
 
-Il est possible d'utiliser l'API de Firestore depuis le notebook pour alimenter la base de données.
+Il est possible d'utiliser l'API de Firestore depuis le notebook pour alimenter la base de données, mais je n'utilise pas Firestore pour gérer les données.
 
 Pour le développement de l'application, j'ai travaillé sur CloudShell :code:`exploit_diridf@cloudshell:~/tunnels (tunnels-dirif)$`.
 Les fichiers sont sur GitHub: `<https://github.com/dirif25non-partage/tunnels>`_.
@@ -53,10 +54,13 @@ Il faut d'abord créer un repository vide (https://github.com/dirif25non-partage
     git push --set-upstream https://dirif25non-partage:ghp_TOKEN_lCP6oNm4TEOwB@github.com/dirif25non-partage/tunnels.git master
 
 
-
-
 Suites envisagées
 =================
+Il n'y a pas de solution simple pour la mise à jour des données que pourrait faire un tiers.
+Deux pistes peuvent être envisagées :
+    * Lire les données dans une Google Sheet
+    * Faire une application Angular/fire de mise à jour
+
 Ce travail pourrait déboucher sur un site de présentation plus général des tunnels de la DiRIF qui remplacerait le rapport d'activité.
 
 
