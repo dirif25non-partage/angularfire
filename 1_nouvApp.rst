@@ -42,7 +42,7 @@ Pour visualiser l'application, la commande est : :code:`ng serve`.
 Pour déployer sur Firebase, il faut :
 
    * sélectionner Firebase hosting sur la console pour le projet,
-   * entrer :code:`firebase login` ( sur CloudShell, ajouter : :code:` –no-localhost`)
+   * entrer :code:`firebase login` ( sur CloudShell,:code:` firebase login --no-localhost`)
    * entrer :code:`firebase init` 
 
 Firebase **hosting** va chercher les fichiers à déployer dans le répertoire **public** mentionné dans firebase.json. 
