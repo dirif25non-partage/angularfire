@@ -13,6 +13,7 @@ Comme souvent, les manipulations qui me paraissaient très lourdes au départ so
 L'IDE intérgé au CloudShell est presque aussi performant que VS Code !
 
 .. code-block:: 
+
   git config --global user.email "diridf25@gmail.com"
   git config --global user.name "Olivier"
   add .
