@@ -12,13 +12,13 @@ Comme la persistance des fichiers n'est pas garantie et que l'espace est limité
 Comme souvent, les manipulations qui me paraissaient très lourdes au départ son devenues rapides avec l'habitude.
 L'IDE intérgé au CloudShell est presque aussi performant que VS Code !
 
-.. code-block:: 
+..code-block:: 
 
   git config --global user.email "diridf25@gmail.com"
   git config --global user.name "Olivier"
   add .
   git commit -m 2404
-   git push https://dirif25non-partage:TOCKEN@github.com/dirif25non-partage/templateAngFire.git
+  git push https://dirif25non-partage:TOCKEN@github.com/dirif25non-partage/templateAngFire.git
 
 
 
