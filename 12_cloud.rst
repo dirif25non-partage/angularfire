@@ -7,9 +7,9 @@ Sur mon PC pro, j'ai plusieurs restrictions:
  * pas de possibilité d'accéder aux applications hébergées sur Firebase ( :code:`**.web.app` )
 
 Je me suis donc tourné vers le service Cloud Shell (Google).
-Comme la persistance des fichiers n'est pas garantie, j'essaie de synchroniser avec GitHub, mais j'oublie vite les procédures pour le faire ...
+Comme la persistance des fichiers n'est pas garantie et que l'espace est limité à 5Go (:code:`du -hs $(ls -A)`) , j'essaie de synchroniser avec GitHub, mais j'oublie vite les procédures pour le faire ...
 
-Comme souvent, les manipulations qui me paraissaient très lourdes au départ son devenues très rapide avec l'habitude.
+Comme souvent, les manipulations qui me paraissaient très lourdes au départ son devenues rapides avec l'habitude.
 L'IDE intérgé au CloudShell est presque aussi performant que VS Code !
 
 Premier exemple, une application pour gérer les NIPs : :code:`https://github.com/dirif25non-partage/travaux`
