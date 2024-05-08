@@ -18,10 +18,12 @@ il entre les données :
 On produit les tableaux de bord suivants :
 
 * Par tunnel, 
+
   * date de dernière visite la plus ancienne, 
   * nombre d'issues non visiées depuis 2 mois
   * liste des issues ordonnées selon la date de la dernière visite
 * Par PCTT
+
   * Nombre d'issues visités par mois sur les 12 derniers mois
   * Temps maximum depuis la dernière visite
   * liste des tunnels ordonnés selon la date de la dernière visite
