@@ -29,5 +29,5 @@ Par ailleurs, quand on utilise Firebase avec Angular, il est recommandé d'avoir
 Contenu du document
 """""""""""""""""""""""""""
 * :doc:`Création d'une nouvelle application<1_nouvApp>`
-* :doc:`Exemple de réalisations<3_applications>`
+* :doc:`Exemples de réalisations<3_applications>`
 * :doc:`Projets et idées<5_projets>`
