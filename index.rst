@@ -15,7 +15,7 @@ Introduction
 
 Pourquoi ce document ?
 """""""""""""""""""""""
-La création d'une application m'a demandé un long apprentissage pour assimiler les étapes et les choix nécessaires. Ce document vise à capitaliser les informations pour gagner du temps lorsque je voudrai reproduire le processus après que le temps soit passé et que j'ai oublié une partie des détails.
+La création d'une application m'a demandé un long apprentissage pour assimiler les étapes et les choix nécessaires. Ce document vise à capitaliser les informations pour gagner du temps lorsque je voudrai reproduire le processus après que du temps soit passé et que j'aie oublié une partie des détails.
 
 Rappel du parcours
 """"""""""""""""""""
