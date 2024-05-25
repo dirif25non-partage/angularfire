@@ -1,6 +1,8 @@
 Exploitation des données comptables de Sucombe
 **************************************************
-3/2024
+5/2024
+Plutot qu'Angular et Firebase, l'objectif a été poursuivi avec Dash/Plotly et BigQuery. 
+Je laisse cette page qui ne rend compte que d'un projet abandonné.
 
 Objectifs
 ===========
