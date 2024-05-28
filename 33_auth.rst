@@ -19,6 +19,9 @@ le travail est fait avec le CloudShell et le projet dett (:code:`id:dett-stt`).
 
 La liste des utilisateurs est importée par une commande :code:`firebase auth:import user1.json --hash-algo=scrypt --hash-key=KyP7eXrGshhlA7KjbTyJTtruQC7nOfBJDUjrsTTbRiY3Uj0QmAsPeXBeW5/wKOdmE3iCL56nMmgs7hX19mJRyw== --salt-separator=Bw== --rounds=8 --mem-cost=14`
 
+Le fichier :code:`user1.json` est fabriqué dans le notebook templateAngFire.ipynb (/mydrive/gcp/firebase/).
+
+
 
 
 
