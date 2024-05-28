@@ -25,6 +25,7 @@ Les étapes du parcours de création d'un nouvelle application sont données ci-
 .. code-block:: 
     
    npm install -g @angular/cli@latest
+   # Cette commande doit être exécutée à chaque utilisation de Cloud Shell car l'installation n'est pas persistante !
    ng new appnom
          (lettres minuscules)
    cd appnom
