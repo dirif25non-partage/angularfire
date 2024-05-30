@@ -24,9 +24,20 @@ L'IDE intérgé au CloudShell est presque aussi performant que VS Code !
 
 Premier exemple, une application pour gérer les NIPs : :code:`https://github.com/dirif25non-partage/travaux`
 
-Quand j'ai voulu faire tout le parcours de création d'une nouvelle application (tunnels) depuis le CLoud Shell, j'ai rencontré un échec à l'étape du "firebase login". La solution est fournie dans la documentation. Pour l'utilisation sur une machine distante, il faut faire : :code:`firebase login --no-localhost`.
+Quand j'ai voulu faire tout le parcours de création d'une nouvelle application (tunnels) depuis le CLoud Shell, 
+j'ai rencontré un échec à l'étape du "firebase login". 
+La solution est fournie dans la documentation. Pour l'utilisation sur une machine distante, il faut faire : 
+:code:`firebase login --no-localhost`.
 
+L'espace disque du Shell est limité à 5G. Le répertoire .npm notamment peut se remplir de fichier et 
+il n'est plus possible de créer une nouvelle application.
+La doc de Google Cloud donne des éléments :
 
+.. code-block::
+  
+  du -hs
+  du -hs $(ls -A)
+  sudo rm -rf $HOME
 
 
 
