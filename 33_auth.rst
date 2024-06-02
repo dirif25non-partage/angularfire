@@ -1,6 +1,6 @@
 Autentification et gestion des utilisateurs
 *******************************************
-Mise à jour 24-05-28
+Mise à jour 24-06-02
 
 Objectifs
 ==========
@@ -14,13 +14,12 @@ J'ai essayer de m'appuyer sur le component **Dialog** pour me familiariser aussi
 
 Organisation
 =============
-Le code est placé ici : :code:`https://github.com/dirif25non-partage/templateAngFire` et
+
 le travail est fait avec le CloudShell et le projet dett (:code:`id:dett-stt`).
 
-La liste des utilisateurs est importée par une commande :code:`firebase auth:import user1.json --hash-algo=scrypt --hash-key=<key> --salt-separator=Bw== --rounds=8 --mem-cost=14`
-
-Le fichier :code:`user1.json` est fabriqué dans le notebook :code:`templateAngFire.ipynb (/mydrive/gcp/firebase/).`
-Il m'a fallu chercher un peu pour trouver une solution. Après des essais au format CSV, j'y suis parvenu mais au format JSON.
+Au départ, la liste des utilisateurs était importée par une commande :code:`firebase auth:import user1.json --hash-algo=scrypt --hash-key=<key> --salt-separator=Bw== --rounds=8 --mem-cost=14`
+Il m'avait fallu chercher un peu pour trouver une solution. Après des essais au format CSV, j'y suis parvenu mais au format JSON.
+J'ai découvert qu'il était plus facile de travailler avec le SDK et j'ai appliqué la méthode pour l'application issuesDeSecoursDIRIF (voir plus loin).
 
 Dans un premier temps, je ne demanderai que de déclarer un email et je donnerai le même mot de passe à tout le monde.
 
