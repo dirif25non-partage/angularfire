@@ -1,0 +1,9 @@
+Note d'information préalable
+********************************
+Les mainteneurs des installations se plaignent que des travaux sont faits sur leur
+secteur sans qu'ils soient informés au préalable. 
+
+On constate que la procédure d'information est ancienne et qu'elle n'est pas utilisée partout pareil.
+
+On propose de faire une application pour remplir un formulaire et le mettre à jour.
+
