@@ -1,10 +1,15 @@
 Création d'une nouvelle application
-****************************************
+######################################
+
 .. toctree::
    :hidden:
    :maxdepth: 3
 
    12_cloud
+
+Références documentaires utilisées
+*************************************
+Avec l'expérience j'utilise beaucoup la documentation canonique produite pour Firebase et Angular. Elle a l'avantage d'être la plus à jour des dernières versions et en tout cas plus explicite sur la version considérée que d'autres sources. 
 
 Pour créer une nouvelle application combinant Angular & Firebase, une source pédagogique est fournie ici :
 
@@ -21,7 +26,23 @@ Il est ici :
 
 J'ai réussi à avancer assez vite en recopiant des morceaux de cette application, pour l'adapter à ce que j'essaie de faire.
 
-Les étapes du parcours de création d'un nouvelle application sont données ci-dessous.
+Initialisation du projet sur la concole Firebase
+****************************************************
+Pour une nouvelle application, il faut commencer par créer un nouveau projet, lui choisir un nom et 
+créer une application (Web App, les autres choix sont Iphone, Android ...) dans ce projet.
+Pour cela, il faut suivre méticuleusement le guidage qui est simple.
+
+Google suggère de prendre pour le nom de l'application celui du projet et c'est sans doute ce qu'il faut faire. Il faut donc
+bien réflechir à ce que l'on fait à ce stade car le nom que l'on choisi est celui que veront les utilisateurs. 
+Je crains qu'il ne soit pas facile de le changer par la suite.
+
+On peut créer plusieurs applications pour un même projet. Dès lors ces applications partageront certaines ressources du projet.
+Cela concerne en premier lieu la base des utilisateurs qui est donc commune à toutes les applications. 
+
+Il y a des avanatage à paratager des ressources comme la base des utilisateurs, il y a aussi des avantages d'isoler les développements qui portent sur des sujets différents. Je ne sais pas encore ce que sont les meilleurs choix sur ce sujet.
+
+Mise en place des moyens de développement
+**********************************************
 
 .. code-block:: 
     
