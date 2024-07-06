@@ -20,6 +20,7 @@ L'IDE intérgé au CloudShell est presque aussi performant que VS Code ! Les fon
 Cependant, je ne sais pas faire des commande simples comme :code:`git status` depuis l'IDE.
 
 .. code-block:: 
+
   ajouter le clonage ...
 
   git config --global user.email "diridf25@gmail.com"
