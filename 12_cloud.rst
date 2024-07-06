@@ -4,9 +4,9 @@ Motivations
 ============
 Sur mon PC pro, j'ai plusieurs restrictions:
 
- * pas les droits administrateur pour installer des applications comme python, git ...
- * pas la possibilité d'installer angular/cli parce que les scripts sont bloqués
- * pas de possibilité d'accéder aux applications hébergées sur Firebase ( :code:`**.web.app` ) sans demande transmise au ministère, au cas par cas.
+* pas les droits administrateur pour installer des applications comme python, git ...
+* pas la possibilité d'installer angular/cli parce que les scripts sont bloqués
+* pas de possibilité d'accéder aux applications hébergées sur Firebase ( :code:`**.web.app` ) sans demande transmise au ministère, au cas par cas.
 
 Je me suis donc tourné vers le service Cloud Shell (Google).
 
