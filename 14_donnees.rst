@@ -34,9 +34,3 @@ Le traitement pour placer les données dans une base Firestore est plus lourd, m
 
 Le partage des données est limité aux applications à l'intérieur d'un même projet Firebase.
 
-
-
-
-
-Critères pour le choix de la méthode
-*******************************************
