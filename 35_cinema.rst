@@ -6,7 +6,7 @@ La documentation est ici `<https://github.com/dirif25non-partage/cinemaRoumain>`
 
 Mise en oeuvre
 ***************
-C:\Users\spera\Videos\on\gcp\angular\cine-roumain
+:code:`C:\Users\spera\Videos\on\gcp\angular\cine-roumain`
 
 Au départ, les données de 22 films ont été saisies dans un Google Sheet.
 Le Sheet est lu par un notebook.
