@@ -14,9 +14,9 @@ Les données sont placées dans une table Firestore.
 
 Projet fonctionnel
 *********************
-Créer un site exposant des informations sur cinéma roumain avec plusieurs pages responsives:
+Créer un site exposant des informations sur le cinéma roumain avec plusieurs pages responsives:
 
-*actualités
+* actualités
 * réalisateurs
 * film
 * festival
