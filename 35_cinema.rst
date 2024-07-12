@@ -18,7 +18,7 @@ Créer un site exposant des informations sur le cinéma roumain avec plusieurs p
 
 * actualités
 * réalisateurs
-* film
+* films
 * festival
 
 
