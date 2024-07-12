@@ -6,6 +6,7 @@ Création d'une nouvelle application
    :maxdepth: 3
 
    12_cloud
+   14_donnees
 
 Références documentaires utilisées
 *************************************
